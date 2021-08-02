@@ -1,0 +1,2 @@
+# CrypToastMasters
+We are building a community of people who want to get better at communicating, improve public speaking and learn leadership skills.  Members would participate in meetings by preparing and delivering presentations and getting feedback. Speeches would have a cryptocurrency / blockchain spin to them.  After completing a project a member would receive an NFT indicating their progress.  Members and officers of the club will have tokens that will allow them to vote in the organization
